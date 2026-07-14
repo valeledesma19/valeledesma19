@@ -51,19 +51,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=valeledesma19&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub de valeledesma19" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeledesma19&layout=compact&hide_border=true" alt="Lenguajes más usados por valeledesma19" />
-</p>
-
----
-
-<div align="center">
-
-📫 **¿Charlamos?** Escribime a **valentinaledesma2407@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/valentina-ledesma-99b06133a)
 
 </div>
